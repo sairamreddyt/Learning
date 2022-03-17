@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Function Constructor</h2>
+    <script>
+        function employee(name,designation,yearofBirth)
+        {
+            this.name=name;
+            this.designation=designation;
+            this.yearofBirth=yearofBirth;
+        }
+        //objects using functional constructor
+       
+        var emp1=new employee("sairam","Tester",1996);
+        var emp2=new employee("ram","Developer",1998);
+        //seeing in output
+        console.log(emp1);
+        console.log(emp2);
+    </script>
+</body>
+</html>

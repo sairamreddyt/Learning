@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Function Prototype</h2>
+    <script>
+    function Employee(name,designation,yearofBirth)
+    {
+        this.name=name;
+        this.designation=designation;
+        this.yearofBirth=yearofBirth;
+    }
+    //function prototype
+    Employee.prototype.calulateAge= function(){
+           var age= 2022- this.yearofBirth;
+           console.log("Age is: "+age);
+        }
+    Employee.prototype.display= function(){
+            console.log("Name: "+this.name+ " Designation: "+this.designation)
+        }
+    //objects using functional constructor
+   
+    var emp1=new Employee("sairam","Tester",1996);
+    var emp2=new Employee("ram","Developer",1998);
+    //seeing in output
+    console.log(emp1);
+    emp1.calulateAge();
+    emp1.display();
+    console.log(emp2);
+    emp2.calulateAge();
+</script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Functions Demo</h2>
+    <script>
+        function display(){
+            console.log("Display function executed");
+        }
+        function add(a,b){
+            return a+b;
+        }
+        function myfunction(a,b){
+            var num1=a+b;
+            var num2=a*b;
+            return num1+num2;
+        }
+        display();
+        var result=add(3,5);
+        console.log(`Result is ${result}`)
+       // console.log("Result "+ result);
+
+        console.log("myfunction: "+myfunction(4,2));
+    </script>
+</body>
+</html>
