@@ -26,6 +26,6 @@ public class AutoI3 {
 		
 		Thread.sleep(5000);
 		
-		Runtime.getRuntime().exec("M:sairam\\selenium\\fileupload.exe");
+		Runtime.getRuntime().exec("M:\\Sairam\\selenium\\upload.exe");
 	}
 }
