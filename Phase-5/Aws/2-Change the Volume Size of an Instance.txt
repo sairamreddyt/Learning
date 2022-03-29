@@ -1,0 +1,41 @@
+Assisted Practice: 3.2 Change the Volume Size of an Instance
+
+This section will guide you to:
+●	Change the volume size of an instance
+
+This lab has seven subsections, namely:
+3.2.1 Creating the new volume which we want to add to an instance and clicking on create volume
+3.2.2 Validating the Availability zone of the EC2 instance with which you want to add volume
+3.2.3 Providing type, size, availability zone, and snapshot name on the create volume tab
+3.2.4 Selecting newly created volume and clicking on the action to attach the volume to the instance
+3.2.5 Selecting the instance of the same availability zone and attaching the volume in pop
+3.2.6 Verifying the instance by adding one more device to the block device
+
+Note: By default, when we create a new instance, we need to attach the minimum volume to the instance depending on the OS or AMI. But we can also add or remove the volume.
+
+
+Step 3.2.1: Creating the new volume which we want to add to an instance and clicking on create volume
+
+ 
+
+
+Step 3.2.2: Validating the Availability zone of the EC2 instance with which you want to add volume
+
+ 
+
+
+Step 3.2.3: Providing type, size, availability zone, and snapshot name on the create volume tab
+
+ 
+
+
+Step 3.2.4: Selecting newly created volume and clicking on the action to attach the volume to the instance
+
+ 
+
+
+Step 3.2.5: Selecting the instance of the same availability zone and attaching the volume in pop
+ 
+
+
+Step 3.2.6: Verifying the instance by adding one more device to the block device

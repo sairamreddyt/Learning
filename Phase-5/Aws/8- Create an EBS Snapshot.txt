@@ -1,0 +1,15 @@
+Assisted Practice: 3.8 Create an EBS Snapshot
+
+This section will guide you to: 
+●	Create an EBS snapshot
+
+This lab has two subsection, namely:
+3.8.1 Creating an EBS snapshot
+
+Step 3.8.1: Creating an EBS snapshot
+●	Select Volume in EC2 dashboard 
+●	Click on Action -> Create Snapshot
+ 
+
+●	Add snapshot name, key, and value
+ 

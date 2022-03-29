@@ -1,0 +1,40 @@
+Assisted Practice: 3.17 Create an IAM Group
+
+This section will guide you to: 
+●	Create an IAM group
+
+This lab has three subsections, namely:
+3.17.1 Creating an IAM group
+3.17.2 Assigning the required policy to the group
+
+Step 3.17.1: Creating an IAM group
+●	In the IAM panel, click on Groups, and you will land on the Create New Group page
+ 
+
+●	Enter the group name 
+
+ 
+
+
+Step 3.17.2: Assigning the required policy to the group
+●	Assign the policy provided by AWS
+ 
+
+●	Once the group is created, you can see the new group in the console
+
+ 
+
+●	You can add a user or a policy to the group any time
+
+ 
+
+●	You can see the user list by clicking on Add User
+
+ 
+
+●	You can also find all the policies added to the group
+
+ 
+
+
+

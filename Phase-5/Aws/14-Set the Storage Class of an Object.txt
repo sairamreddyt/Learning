@@ -1,0 +1,27 @@
+Assisted Practice: 3.14 Set the Storage Class of an Object
+
+This section will guide you to: 
+●	Set the storage class of an object
+
+This lab has three subsections, namely:
+3.14.1 Selecting the bucket
+3.14.2 Setting the storage class of an object
+
+Step 3.14.1: Selecting the bucket
+●	 Select the bucket and open the list of items
+
+ 
+
+
+Step 3.14.2: Setting the storage class of an object
+●	Click on Upload and select the file and click Next
+ 
+
+●	Select the class and click Next
+
+ 
+
+●	The class will get assigned to the uploaded object
+
+ 
+

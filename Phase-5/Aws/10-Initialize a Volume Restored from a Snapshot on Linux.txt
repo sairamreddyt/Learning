@@ -1,0 +1,25 @@
+Assisted Practice: 3.10 Initialize a Volume Restored from a Snapshot on Linux
+
+This section will guide you to: 
+●	Initialize a volume restored from a snapshot
+
+This lab has three subsections, namely:
+3.10.1 Selecting the snapshot 
+3.10.2 Restoring volume from the snapshot
+
+Step 3.10.1: Selecting the snapshot
+●	Go to EC2 dashboard in EBS and click on Snapshot 
+
+ 
+
+
+Step 3.10.2: Restoring volume from the snapshot
+●	Select the snapshot and click on Action
+
+ 
+
+●	You can specify the key and value to identify the volume
+
+ 
+
+●	Restore the volume from the snapshot

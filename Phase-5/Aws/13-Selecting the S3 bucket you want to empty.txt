@@ -1,0 +1,22 @@
+Assisted Practice: 3.13 Empty an S3 Bucket
+
+This section will guide you to: 
+●	Empty an S3 bucket
+
+This lab has three subsections, namely:
+3.13.1 Selecting the S3 bucket you want to empty
+3.13.2 Emptying the bucket
+
+Step 3.13.1: Selecting the S3 bucket you want to empty
+ 
+
+
+Step 3.13.2: Emptying the bucket
+●	Verify the content present in the bucket
+
+ 
+
+●	Empty the bucket 
+
+ 
+

@@ -1,0 +1,15 @@
+Assisted Practice: 3.7 Delete an EBS Volume
+
+This section will guide you to: 
+●	Delete an EBS volume
+
+This lab has three subsections, namely:
+3.7.1 Selecting the EBS volume you want to delete
+3.7.2 Deleting the volume
+
+
+Step 3.7.1: Selecting the EBS volume you want to delete
+ 
+
+Step 3.7.2: Deleting the volume
+ 

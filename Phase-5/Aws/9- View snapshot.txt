@@ -1,0 +1,6 @@
+Assisted Practice: 3.9 View snapshot
+
+This section will guide you to view a snapshot in your AWS account. 
+
+Step 1: To view snapshots, you need to navigate to the EC2 dashboard available on the panel on the left. Click on snapshot to view all available snapshots.  
+
