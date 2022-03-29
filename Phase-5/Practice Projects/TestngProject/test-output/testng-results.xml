@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-29T10:40:48 IST" name="Default suite" finished-at="2022-03-29T10:42:23 IST" duration-ms="94749">
+    <groups>
+    </groups>
+    <test started-at="2022-03-29T10:40:48 IST" name="Default test" finished-at="2022-03-29T10:42:23 IST" duration-ms="94749">
+      <class name="com.example.Search">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.example.Search@43dac38f]" started-at="2022-03-29T10:40:48 IST" name="beforeMethod" finished-at="2022-03-29T10:40:48 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="search()[pri:0, instance:com.example.Search@43dac38f]" started-at="2022-03-29T10:40:48 IST" name="search" finished-at="2022-03-29T10:41:20 IST" duration-ms="32256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.example.Search@43dac38f]" started-at="2022-03-29T10:41:20 IST" name="afterMethod" finished-at="2022-03-29T10:41:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.example.Search -->
+      <class name="com.example.Register">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.example.Register@2dc54ad4]" started-at="2022-03-29T10:41:20 IST" name="beforeMethod" finished-at="2022-03-29T10:41:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Reg()[pri:0, instance:com.example.Register@2dc54ad4]" started-at="2022-03-29T10:41:20 IST" name="Reg" finished-at="2022-03-29T10:41:33 IST" duration-ms="12597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reg -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.example.Register@2dc54ad4]" started-at="2022-03-29T10:41:33 IST" name="afterMethod" finished-at="2022-03-29T10:41:33 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.example.Register -->
+      <class name="com.example.Login">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.example.Login@4b0d79fc]" started-at="2022-03-29T10:41:33 IST" name="beforeMethod" finished-at="2022-03-29T10:41:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login()[pri:0, instance:com.example.Login@4b0d79fc]" started-at="2022-03-29T10:41:33 IST" name="login" finished-at="2022-03-29T10:41:40 IST" duration-ms="6378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.example.Login@4b0d79fc]" started-at="2022-03-29T10:41:40 IST" name="afterMethod" finished-at="2022-03-29T10:41:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="login1()[pri:0, instance:com.example.Login@4b0d79fc]" started-at="2022-03-29T10:41:40 IST" name="login1" finished-at="2022-03-29T10:41:40 IST" depends-on-methods="com.example.Login.login" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.example.Login@4b0d79fc]" started-at="2022-03-29T10:41:40 IST" name="beforeMethod" finished-at="2022-03-29T10:41:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.example.Login@4b0d79fc]" started-at="2022-03-29T10:41:40 IST" name="afterMethod" finished-at="2022-03-29T10:41:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.example.Login -->
+      <class name="com.example.AddToCart">
+        <test-method signature="cart()[pri:0, instance:com.example.AddToCart@4c1909a3]" started-at="2022-03-29T10:41:40 IST" name="cart" finished-at="2022-03-29T10:42:23 IST" duration-ms="43175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+      </class> <!-- com.example.AddToCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
